@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2010/10/26 15:41:56.987,=C:\Users\dwildt\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2010/10/26 15:43:55.178,C:\Users\dwildt\Code\jogodavelha\src\UFormPrincipal.pas=C:\Users\dwildt\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2010/10/26 15:43:55.178,C:\Users\dwildt\Code\jogodavelha\src\UFormPrincipal.dfm=C:\Users\dwildt\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2010/10/26 15:44:34.972,C:\Users\dwildt\Code\jogodavelha\JogoDaVelha.dproj=C:\Users\dwildt\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2010/10/26 15:54:11.027,=C:\Users\dwildt\Code\jogodavelha\Unit1.pas</Transaction>
+    <Transaction>2010/10/26 15:54:31.034,C:\Users\dwildt\Code\jogodavelha\src\UJogoDaVelha.pas=C:\Users\dwildt\Code\jogodavelha\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

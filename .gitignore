@@ -1,0 +1,6 @@
+dcu
+*.dcu
+exe
+*.exe
+*.~*
+Debug

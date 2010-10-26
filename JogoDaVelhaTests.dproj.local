@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2010/10/26 15:46:41.520,=C:\Users\dwildt\Code\jogodavelha\test\UJogoDaVelhaTest.pas</Transaction>
+    <Transaction>2010/10/26 15:46:42.171,=C:\Users\dwildt\Code\jogodavelha\src\UFormPrincipal.pas</Transaction>
+    <Transaction>2010/10/26 15:47:02.956,C:\Users\dwildt\Code\jogodavelha\JogoDaVelhaTests.dproj=C:\Users\dwildt\Code\jogodavelha\test\JogoDaVelhaTests.dproj</Transaction>
+    <Transaction>2010/10/26 15:55:13.234,=C:\Users\dwildt\Code\jogodavelha\src\UJogoDaVelha.pas</Transaction>
+  </Transactions>
+</BorlandProject>
