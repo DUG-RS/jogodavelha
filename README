@@ -1,0 +1,8 @@
+Jogo da Velha
+=============
+
+Problema usado na Delphi Conference Brasil 2010, em um Coding Dojo realizado durante a palestra de Daniel Wildt (@dwildt).
+
+Produzido no Delphi XE, usando DUnit e Win32 como base. 
+
+
